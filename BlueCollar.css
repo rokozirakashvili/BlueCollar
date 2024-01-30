@@ -126,7 +126,7 @@
     align-items: center;
     background-image: url("images/cover-Image.png");
     background-repeat: no-repeat;
-    width: 1900px;
+    width: 1900;
     height: 924px;
 }
 
@@ -157,3 +157,26 @@
     font-size: 20px;
     font-weight: 600;
 }
+
+.second__layer {
+    display: flex;
+    width: 100%;
+    height: 846px;
+    justify-content: center;
+    align-items: center;
+}
+
+.second__image-container {
+    display: flex;
+    align-self: center;
+}
+
+.second-cover {
+    height: 546px;
+}
+
+.second__image-info {
+
+}
+
+.second__image-info

@@ -326,5 +326,11 @@
 }
 
 .our_cervices-container p {
-    
+    text-align: center;
+    width: 687px;
+    height: 46px;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #7e7e7e;
 }

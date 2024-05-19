@@ -327,10 +327,52 @@
 
 .our_cervices-container p {
     text-align: center;
+    margin-bottom: 37px;
     width: 687px;
     height: 46px;
     font-weight: 400;
     font-size: 18px;
     text-align: center;
     color: #7e7e7e;
+}
+
+.blue_cubes-container {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.blue_cubes {
+    margin-bottom: 27px;
+    background-color: #1c2752;
+    padding: 47px 37px 47px 36px;
+    width: 370px;
+    height: 280px;
+}
+
+.blue_cubes img {
+    width: 48px;
+    height: 48px;
+}
+
+.blue_cubes h3 {
+    font-weight: 700;
+    font-size: 25px;
+    color: #ffb342;
+}
+
+.blue_cubes p {
+    width: 310px;
+    height: 66px;
+    text-align: left;
+    font-weight: 400;
+    font-size: 18px;
+    color: #d2d2d2;
+}
+
+.blue_cubes a {
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
 }

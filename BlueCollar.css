@@ -305,7 +305,26 @@
 }
 
 .our_cervices-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     width: 100%;
     height: 1329px;
     background-color: #F4F4F4;
+}
+
+.some_titles {
+    margin-top: 10%;
+    margin-bottom: -20px;
+}
+
+.our_cervices-container h2 {
+    font-weight: 800;
+    font-size: 45px;
+    text-align: center;
+    color: #1c2752;
+}
+
+.our_cervices-container p {
+    
 }
